@@ -1,0 +1,15 @@
+{
+  "name": "gdgoc-learn",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs --dist",
+    "assets:refresh": "node scripts/refresh-assets.mjs",
+    "brand:sync": "node scripts/sync-brand.mjs && node scripts/refresh-assets.mjs",
+    "test": "node --test tests/*.test.js"
+  }
+}

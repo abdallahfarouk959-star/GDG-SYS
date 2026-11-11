@@ -1,0 +1,19 @@
+{
+  "source": "GDGoC_LogoPack/GDGoC_AAST_Aswan_Logo_Pack",
+  "note": "Supplied reconstructed logo kit; see LOGO-PACK-README.md. Original colors, paths, and proportions preserved.",
+  "files": {
+    "gdgoc-learn-mark.svg": "Icon_Four_Color.svg",
+    "gdgoc-learn-lockup.svg": "Full_Color_For_Light.svg",
+    "gdgoc-learn-lockup-white.svg": "Full_All_White.svg",
+    "gdgoc-mark-white.svg": "Icon_White.svg",
+    "gdgoc-mark-black.svg": "Icon_Black.svg",
+    "gdgoc-mark-blue.svg": "Icon_Brand_Blue.svg",
+    "gdgoc-full-dark.svg": "Full_Color_For_Dark.svg",
+    "gdgoc-stacked-light.svg": "Stacked_For_Light.svg"
+  },
+  "derived": {
+    "gdgoc-favicon.svg": "Icon_Four_Color.svg, centered on a square canvas",
+    "gdgoc-touch-icon.png": "05_Social_Avatars/Avatar_Icon_Light_1024.png",
+    "illustrations/season-certificate.svg": "Full_Color_For_Light.svg embedded as vector paths"
+  }
+}

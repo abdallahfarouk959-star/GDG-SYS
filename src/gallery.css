@@ -1,0 +1,38 @@
+.gallery-page { background: #fafbff; }
+.gallery-header { height: 91px; padding: 16px max(24px, calc((100vw - 1240px) / 2)); display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--border); background: #ffffffed; }
+.gallery-header > a:first-child { display: block; }
+.gallery-header img { display: block; width: 208px; height: auto; aspect-ratio: 1280 / 370; }
+.gallery-app-link { display: flex; gap: 12px; align-items: center; font-size: 13px; border: 1px solid #c4c7c5; border-radius: 24px; padding: 10px 18px; background: #fff; font-weight: 500; }
+.gallery-main { max-width: 1288px; padding: 46px 24px 50px; }
+.gallery-intro { display: flex; align-items: center; justify-content: space-between; gap: 25px; padding: 34px; border-radius: 24px; border: 0; background: #e8f0fe; }
+.gallery-intro .eyebrow { font-size: 9px; letter-spacing: .12em; }
+.gallery-intro h1 { margin: 10px 0; font-size: 30px; }
+.gallery-intro p { font-size: 13px; }
+.gallery-vector-pill { flex-shrink: 0; font-size: 11px; border: 1px solid #b8dfc9; background: #f0fff6; color: #3d895d; border-radius: 24px; padding: 10px 15px; }
+.gallery-toolbar { display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 27px 0 20px; }
+.gallery-toolbar md-outlined-text-field { width: min(440px, 100%); background: #fff; --md-outlined-text-field-container-shape: 9px; --md-outlined-text-field-input-text-size: 13px; --md-outlined-text-field-label-text-size: 13px; }
+#asset-count { font-size: 12px; color: #7f8aa5; white-space: nowrap; }
+.gallery-categories { display: flex; gap: 9px; flex-wrap: wrap; padding-bottom: 12px; }
+.gallery-categories a { border: 1px solid var(--border); border-radius: 18px; background: #fff; padding: 8px 13px; font-size: 11px; color: #667391; }
+.gallery-categories a:hover { background: #eaf0ff; border-color: #b9cdfa; color: #2763e4; }
+.asset-section { scroll-margin-top: 24px; margin-top: 30px; }
+.gallery-section-heading { display: flex; align-items: center; gap: 12px; margin: 0 0 16px; }
+.gallery-section-heading h2 { font-size: 19px; }
+.gallery-section-heading > span { color: #8691a9; font-size: 10px; border-radius: 10px; background: #eef1f8; padding: 3px 8px; }
+.asset-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 15px; }
+.asset { min-width: 0; overflow: hidden; transition: border-color 160ms, transform 160ms; }
+.asset:hover { border-color: #bfcef5; transform: translateY(-2px); }
+.asset-preview { display: grid; place-items: center; height: 165px; padding: 20px; background-color: #f5f7ff; background-image: linear-gradient(45deg, #e9edf54d 25%, transparent 25%), linear-gradient(-45deg, #e9edf54d 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #e9edf54d 75%), linear-gradient(-45deg, transparent 75%, #e9edf54d 75%); background-size: 16px 16px; background-position: 0 0, 0 8px, 8px -8px, -8px 0; }
+.asset-preview img { width: 100%; height: 100%; }
+#icons .asset-preview img { max-width: 47px; max-height: 47px; }
+.asset-preview.dark-preview { background: #263451; }
+.asset-details { padding: 15px; }
+.asset-details h3 { font-size: 11px; font-weight: 500; overflow-wrap: anywhere; letter-spacing: 0; }
+.asset-details a { display: flex; align-items: center; justify-content: space-between; font-size: 10px; margin-top: 12px; color: #3671e5; }
+.asset-details a > span { font-size: 15px; }
+.gallery-footnote { display: flex; gap: 40px; justify-content: space-between; padding-top: 30px; margin-top: 40px; border-top: 1px solid var(--border); }
+.gallery-footnote p { font-size: 11px; max-width: 650px; color: #929ab0; }
+.gallery-footnote > a { font-size: 11px; white-space: nowrap; }
+#gallery-empty { margin-top: 25px; }
+@media(max-width: 760px) { .gallery-intro { padding: 27px; } .gallery-intro h1 { font-size: 25px; } .gallery-vector-pill { display: none; } .gallery-footnote { flex-direction: column; gap: 15px; } }
+@media(max-width: 480px) { .gallery-header { padding: 14px 18px; height: 80px; gap: 12px; } .gallery-header img { width: 150px; height: 40px; } .gallery-app-link { font-size: 10px; padding: 9px 10px; gap: 5px; } .gallery-main { padding: 25px 17px; } .gallery-intro { padding: 25px 22px; } .gallery-intro h1 { font-size: 24px; } .gallery-intro .eyebrow { font-size: 8px; } .gallery-intro p { font-size: 12px; } .gallery-toolbar { gap: 12px; } .asset-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 11px; } .asset-preview { height: 135px; padding: 15px; } .asset-details { padding: 12px; } .asset-details h3 { font-size: 10px; } .gallery-categories a { padding: 7px 9px; font-size: 10px; } .gallery-categories { gap: 7px; } }

@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f8faff" />
+    <meta name="description" content="Your GDGoC AAST Aswan learning journey. Explore sessions, build projects, earn XP, and work toward your season certificate." />
+    <link rel="icon" type="image/svg+xml" href="/assets/brand/gdgoc-favicon.svg" />
+    <link rel="apple-touch-icon" href="/assets/brand/gdgoc-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://esm.run" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;600;700&display=swap" />
+    <link rel="stylesheet" href="/src/styles.css" />
+    <link rel="stylesheet" href="/src/google.css" />
+    <title>Dashboard · GDGoC Learn</title>
+    <script type="importmap">
+      { "imports": { "@material/web/": "https://esm.run/@material/web@2.4.1/" } }
+    </script>
+    <script type="module" src="/src/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div id="app"><div class="loading-screen"><img src="/assets/brand/gdgoc-learn-lockup.svg" width="256" height="74" alt="GDGoC · AAST Aswan"><p>Getting your learning space ready…</p></div></div>
+    <div id="dialog-root"></div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script>
+      window.setTimeout(() => {
+        const loading = document.querySelector('.loading-screen');
+        if (loading) loading.querySelector('p').textContent = 'Material Web is taking a moment to load. Check your internet connection and refresh.';
+      }, 15000);
+    </script>
+  </body>
+</html>

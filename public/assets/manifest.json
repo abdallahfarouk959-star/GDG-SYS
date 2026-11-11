@@ -1,0 +1,326 @@
+{
+  "assets/avatars/student-placeholder.svg": {
+    "type": "svg",
+    "bytes": 331
+  },
+  "assets/badges/challenge-complete.svg": {
+    "type": "svg",
+    "bytes": 338
+  },
+  "assets/badges/community-helper.svg": {
+    "type": "svg",
+    "bytes": 415
+  },
+  "assets/badges/consistent-builder.svg": {
+    "type": "svg",
+    "bytes": 397
+  },
+  "assets/badges/first-step.svg": {
+    "type": "svg",
+    "bytes": 315
+  },
+  "assets/brand/gdgoc-favicon.svg": {
+    "type": "svg",
+    "bytes": 387
+  },
+  "assets/brand/gdgoc-full-dark.svg": {
+    "type": "svg",
+    "bytes": 6163
+  },
+  "assets/brand/gdgoc-learn-lockup-white.svg": {
+    "type": "svg",
+    "bytes": 6163
+  },
+  "assets/brand/gdgoc-learn-lockup.svg": {
+    "type": "svg",
+    "bytes": 6163
+  },
+  "assets/brand/gdgoc-learn-mark.svg": {
+    "type": "svg",
+    "bytes": 376
+  },
+  "assets/brand/gdgoc-mark-black.svg": {
+    "type": "svg",
+    "bytes": 376
+  },
+  "assets/brand/gdgoc-mark-blue.svg": {
+    "type": "svg",
+    "bytes": 376
+  },
+  "assets/brand/gdgoc-mark-white.svg": {
+    "type": "svg",
+    "bytes": 376
+  },
+  "assets/brand/gdgoc-stacked-light.svg": {
+    "type": "svg",
+    "bytes": 6054
+  },
+  "assets/icons/arrow-right.svg": {
+    "type": "svg",
+    "bytes": 331
+  },
+  "assets/icons/arrow-up-right.svg": {
+    "type": "svg",
+    "bytes": 305
+  },
+  "assets/icons/award.svg": {
+    "type": "svg",
+    "bytes": 591
+  },
+  "assets/icons/bell.svg": {
+    "type": "svg",
+    "bytes": 455
+  },
+  "assets/icons/book.svg": {
+    "type": "svg",
+    "bytes": 1139
+  },
+  "assets/icons/brain.svg": {
+    "type": "svg",
+    "bytes": 1040
+  },
+  "assets/icons/calendar-check.svg": {
+    "type": "svg",
+    "bytes": 525
+  },
+  "assets/icons/calendar.svg": {
+    "type": "svg",
+    "bytes": 999
+  },
+  "assets/icons/chart.svg": {
+    "type": "svg",
+    "bytes": 459
+  },
+  "assets/icons/check-circle.svg": {
+    "type": "svg",
+    "bytes": 527
+  },
+  "assets/icons/check-square.svg": {
+    "type": "svg",
+    "bytes": 736
+  },
+  "assets/icons/check.svg": {
+    "type": "svg",
+    "bytes": 255
+  },
+  "assets/icons/chevron-down.svg": {
+    "type": "svg",
+    "bytes": 262
+  },
+  "assets/icons/chevron-left.svg": {
+    "type": "svg",
+    "bytes": 262
+  },
+  "assets/icons/chevron-right.svg": {
+    "type": "svg",
+    "bytes": 261
+  },
+  "assets/icons/clipboard.svg": {
+    "type": "svg",
+    "bytes": 407
+  },
+  "assets/icons/clock.svg": {
+    "type": "svg",
+    "bytes": 547
+  },
+  "assets/icons/close.svg": {
+    "type": "svg",
+    "bytes": 332
+  },
+  "assets/icons/code.svg": {
+    "type": "svg",
+    "bytes": 427
+  },
+  "assets/icons/database.svg": {
+    "type": "svg",
+    "bytes": 711
+  },
+  "assets/icons/edit.svg": {
+    "type": "svg",
+    "bytes": 377
+  },
+  "assets/icons/external.svg": {
+    "type": "svg",
+    "bytes": 510
+  },
+  "assets/icons/eye.svg": {
+    "type": "svg",
+    "bytes": 621
+  },
+  "assets/icons/file-text.svg": {
+    "type": "svg",
+    "bytes": 552
+  },
+  "assets/icons/filter.svg": {
+    "type": "svg",
+    "bytes": 436
+  },
+  "assets/icons/flag.svg": {
+    "type": "svg",
+    "bytes": 396
+  },
+  "assets/icons/flame.svg": {
+    "type": "svg",
+    "bytes": 336
+  },
+  "assets/icons/github.svg": {
+    "type": "svg",
+    "bytes": 628
+  },
+  "assets/icons/grid.svg": {
+    "type": "svg",
+    "bytes": 709
+  },
+  "assets/icons/help.svg": {
+    "type": "svg",
+    "bytes": 757
+  },
+  "assets/icons/home.svg": {
+    "type": "svg",
+    "bytes": 423
+  },
+  "assets/icons/layers.svg": {
+    "type": "svg",
+    "bytes": 749
+  },
+  "assets/icons/lightbulb.svg": {
+    "type": "svg",
+    "bytes": 488
+  },
+  "assets/icons/link.svg": {
+    "type": "svg",
+    "bytes": 619
+  },
+  "assets/icons/list-check.svg": {
+    "type": "svg",
+    "bytes": 737
+  },
+  "assets/icons/lock.svg": {
+    "type": "svg",
+    "bytes": 481
+  },
+  "assets/icons/logout.svg": {
+    "type": "svg",
+    "bytes": 483
+  },
+  "assets/icons/mail.svg": {
+    "type": "svg",
+    "bytes": 378
+  },
+  "assets/icons/menu.svg": {
+    "type": "svg",
+    "bytes": 433
+  },
+  "assets/icons/monitor.svg": {
+    "type": "svg",
+    "bytes": 298
+  },
+  "assets/icons/paperclip.svg": {
+    "type": "svg",
+    "bytes": 501
+  },
+  "assets/icons/play.svg": {
+    "type": "svg",
+    "bytes": 297
+  },
+  "assets/icons/plus.svg": {
+    "type": "svg",
+    "bytes": 336
+  },
+  "assets/icons/qr.svg": {
+    "type": "svg",
+    "bytes": 898
+  },
+  "assets/icons/refresh.svg": {
+    "type": "svg",
+    "bytes": 464
+  },
+  "assets/icons/search.svg": {
+    "type": "svg",
+    "bytes": 388
+  },
+  "assets/icons/settings.svg": {
+    "type": "svg",
+    "bytes": 964
+  },
+  "assets/icons/shield.svg": {
+    "type": "svg",
+    "bytes": 498
+  },
+  "assets/icons/sparkles.svg": {
+    "type": "svg",
+    "bytes": 1106
+  },
+  "assets/icons/star.svg": {
+    "type": "svg",
+    "bytes": 467
+  },
+  "assets/icons/terminal.svg": {
+    "type": "svg",
+    "bytes": 503
+  },
+  "assets/icons/trophy.svg": {
+    "type": "svg",
+    "bytes": 588
+  },
+  "assets/icons/upload.svg": {
+    "type": "svg",
+    "bytes": 502
+  },
+  "assets/icons/user.svg": {
+    "type": "svg",
+    "bytes": 574
+  },
+  "assets/icons/users.svg": {
+    "type": "svg",
+    "bytes": 907
+  },
+  "assets/icons/video.svg": {
+    "type": "svg",
+    "bytes": 347
+  },
+  "assets/illustrations/certificate-hero.svg": {
+    "type": "svg",
+    "bytes": 1346
+  },
+  "assets/illustrations/certificate-locked.svg": {
+    "type": "svg",
+    "bytes": 848
+  },
+  "assets/illustrations/empty-tasks.svg": {
+    "type": "svg",
+    "bytes": 443
+  },
+  "assets/illustrations/season-certificate.svg": {
+    "type": "svg",
+    "bytes": 8062
+  },
+  "assets/illustrations/session-banner.svg": {
+    "type": "svg",
+    "bytes": 677
+  },
+  "assets/illustrations/video-placeholder.svg": {
+    "type": "svg",
+    "bytes": 779
+  },
+  "assets/tracks/artificial-intelligence.svg": {
+    "type": "svg",
+    "bytes": 776
+  },
+  "assets/tracks/cybersecurity.svg": {
+    "type": "svg",
+    "bytes": 743
+  },
+  "assets/tracks/data-science.svg": {
+    "type": "svg",
+    "bytes": 722
+  },
+  "assets/tracks/software-engineering.svg": {
+    "type": "svg",
+    "bytes": 727
+  },
+  "assets/tracks/web-development.svg": {
+    "type": "svg",
+    "bytes": 651
+  }
+}

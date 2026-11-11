@@ -1,0 +1,287 @@
+{
+  "library": "Google Material Symbols Rounded",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/google/material-design-icons",
+  "icons": {
+    "arrow-right": {
+      "symbol": "arrow_forward",
+      "sha": "9c7e26e02b239bef29593e73a89f3805e3398c63",
+      "path": "symbols/web/arrow_forward/materialsymbolsrounded/arrow_forward_24px.svg"
+    },
+    "arrow-up-right": {
+      "symbol": "north_east",
+      "sha": "342a904543fc803a16ce83f36d8496e7970f56a3",
+      "path": "symbols/web/north_east/materialsymbolsrounded/north_east_24px.svg"
+    },
+    "award": {
+      "symbol": "workspace_premium",
+      "sha": "b9c6f5073bf68ef4c5724f5c6fc93b87464a4f5f",
+      "path": "symbols/web/workspace_premium/materialsymbolsrounded/workspace_premium_24px.svg"
+    },
+    "bell": {
+      "symbol": "notifications",
+      "sha": "59dfa315d7647a73674a33b97e6f31321002360a",
+      "path": "symbols/web/notifications/materialsymbolsrounded/notifications_24px.svg"
+    },
+    "book": {
+      "symbol": "menu_book",
+      "sha": "a48626abd4f31948bc5089f4544e3eebe60a9d10",
+      "path": "symbols/web/menu_book/materialsymbolsrounded/menu_book_24px.svg"
+    },
+    "brain": {
+      "symbol": "psychology",
+      "sha": "90e16ba138c8367b511060ffc2e6521f7ab33eb3",
+      "path": "symbols/web/psychology/materialsymbolsrounded/psychology_24px.svg"
+    },
+    "calendar-check": {
+      "symbol": "event_available",
+      "sha": "77b30fff936f285796ac705456b58fa13f5798f6",
+      "path": "symbols/web/event_available/materialsymbolsrounded/event_available_24px.svg"
+    },
+    "calendar": {
+      "symbol": "calendar_month",
+      "sha": "796c97aa9b898f8b9639ee75b9dfef7409c8cb59",
+      "path": "symbols/web/calendar_month/materialsymbolsrounded/calendar_month_24px.svg"
+    },
+    "chart": {
+      "symbol": "bar_chart",
+      "sha": "bc4f6bb44933557ac2ca58e55f311930bce68218",
+      "path": "symbols/web/bar_chart/materialsymbolsrounded/bar_chart_24px.svg"
+    },
+    "check-circle": {
+      "symbol": "check_circle",
+      "sha": "fa86f2ef9f9ec0658e9fef410885eb24a9da839a",
+      "path": "symbols/web/check_circle/materialsymbolsrounded/check_circle_24px.svg"
+    },
+    "check-square": {
+      "symbol": "fact_check",
+      "sha": "3ce26f19593a87661fcdef0be33a20280685b589",
+      "path": "symbols/web/fact_check/materialsymbolsrounded/fact_check_24px.svg"
+    },
+    "check": {
+      "symbol": "check",
+      "sha": "f23d34a7e80b1a4ed28c5c921594c48855de5124",
+      "path": "symbols/web/check/materialsymbolsrounded/check_24px.svg"
+    },
+    "chevron-down": {
+      "symbol": "expand_more",
+      "sha": "7915770846ebaa2a2667059535a96c18383dc83e",
+      "path": "symbols/web/expand_more/materialsymbolsrounded/expand_more_24px.svg"
+    },
+    "chevron-left": {
+      "symbol": "chevron_left",
+      "sha": "b8ce756c40981372488e8418853cdccfe26bd7c1",
+      "path": "symbols/web/chevron_left/materialsymbolsrounded/chevron_left_24px.svg"
+    },
+    "chevron-right": {
+      "symbol": "chevron_right",
+      "sha": "a5115edd6a2c9e1acf13df63884346c786108076",
+      "path": "symbols/web/chevron_right/materialsymbolsrounded/chevron_right_24px.svg"
+    },
+    "clipboard": {
+      "symbol": "content_copy",
+      "sha": "f215d43192d8dc9b8415cb1e21cb88923ed10d46",
+      "path": "symbols/web/content_copy/materialsymbolsrounded/content_copy_24px.svg"
+    },
+    "clock": {
+      "symbol": "schedule",
+      "sha": "656cc89a2334ac403898e3fee537b002cd260a86",
+      "path": "symbols/web/schedule/materialsymbolsrounded/schedule_24px.svg"
+    },
+    "close": {
+      "symbol": "close",
+      "sha": "39564340841c09e98c1c21526c42060630dca231",
+      "path": "symbols/web/close/materialsymbolsrounded/close_24px.svg"
+    },
+    "code": {
+      "symbol": "code",
+      "sha": "9f6a097d76ff429a0fa0bed33d949614d96f1829",
+      "path": "symbols/web/code/materialsymbolsrounded/code_24px.svg"
+    },
+    "database": {
+      "symbol": "database",
+      "sha": "a3bc2bfbc24474698fefb2e4fb30db34319fa2ee",
+      "path": "symbols/web/database/materialsymbolsrounded/database_24px.svg"
+    },
+    "edit": {
+      "symbol": "edit",
+      "sha": "13835e4bb1f35ceb321a156b90741d22d9d69034",
+      "path": "symbols/web/edit/materialsymbolsrounded/edit_24px.svg"
+    },
+    "external": {
+      "symbol": "open_in_new",
+      "sha": "80beb0650b308442dce720fb3d2146530dbed857",
+      "path": "symbols/web/open_in_new/materialsymbolsrounded/open_in_new_24px.svg"
+    },
+    "eye": {
+      "symbol": "visibility",
+      "sha": "028ee07d797768998b53e689c94ed975d3d9ef41",
+      "path": "symbols/web/visibility/materialsymbolsrounded/visibility_24px.svg"
+    },
+    "file-text": {
+      "symbol": "description",
+      "sha": "58c0960b80280651be0ef5928535078abb8fc881",
+      "path": "symbols/web/description/materialsymbolsrounded/description_24px.svg"
+    },
+    "filter": {
+      "symbol": "filter_list",
+      "sha": "b7906fb5e26a1913ecd625672b080c91aed8bd8b",
+      "path": "symbols/web/filter_list/materialsymbolsrounded/filter_list_24px.svg"
+    },
+    "flag": {
+      "symbol": "flag",
+      "sha": "aa234bc15439c04fc9572b9fa76002ca3ef255a3",
+      "path": "symbols/web/flag/materialsymbolsrounded/flag_24px.svg"
+    },
+    "flame": {
+      "symbol": "bolt",
+      "sha": "72dcdd2a19f060394b691bcd1cee217bf2b6f04b",
+      "path": "symbols/web/bolt/materialsymbolsrounded/bolt_24px.svg"
+    },
+    "github": {
+      "symbol": "account_tree",
+      "sha": "3955a342ab88adc2967d21570545ba0eab233c5f",
+      "path": "symbols/web/account_tree/materialsymbolsrounded/account_tree_24px.svg"
+    },
+    "grid": {
+      "symbol": "grid_view",
+      "sha": "2e9718a03236258b27dc93899b5d82b01fd98dd3",
+      "path": "symbols/web/grid_view/materialsymbolsrounded/grid_view_24px.svg"
+    },
+    "help": {
+      "symbol": "help",
+      "sha": "900494e886debf4d43d80e52af9a894590de9489",
+      "path": "symbols/web/help/materialsymbolsrounded/help_24px.svg"
+    },
+    "home": {
+      "symbol": "home",
+      "sha": "57e3733fa57f46866f01d848b7e5d575dd462e44",
+      "path": "symbols/web/home/materialsymbolsrounded/home_24px.svg"
+    },
+    "layers": {
+      "symbol": "stacks",
+      "sha": "1b8ad026b87fb7d18936f819ec86af68f5bc29cf",
+      "path": "symbols/web/stacks/materialsymbolsrounded/stacks_24px.svg"
+    },
+    "lightbulb": {
+      "symbol": "lightbulb",
+      "sha": "3efe655b64d4893a8990cfc94f2897e800e1d92d",
+      "path": "symbols/web/lightbulb/materialsymbolsrounded/lightbulb_24px.svg"
+    },
+    "link": {
+      "symbol": "link",
+      "sha": "680c0944fa45c012bfd8e29c0962210d3719fc4e",
+      "path": "symbols/web/link/materialsymbolsrounded/link_24px.svg"
+    },
+    "list-check": {
+      "symbol": "assignment",
+      "sha": "4e517bf3c84d599f32d99052cd7c89a12b140bc5",
+      "path": "symbols/web/assignment/materialsymbolsrounded/assignment_24px.svg"
+    },
+    "lock": {
+      "symbol": "lock",
+      "sha": "20b9e3984ec95aaa2d469959805416b3997976d4",
+      "path": "symbols/web/lock/materialsymbolsrounded/lock_24px.svg"
+    },
+    "logout": {
+      "symbol": "logout",
+      "sha": "2d448d6595cacc5b8e1484cb19f078871a469ed9",
+      "path": "symbols/web/logout/materialsymbolsrounded/logout_24px.svg"
+    },
+    "mail": {
+      "symbol": "mail",
+      "sha": "e39fff1ccab37deaca521cf1f32ae0f2737ecd29",
+      "path": "symbols/web/mail/materialsymbolsrounded/mail_24px.svg"
+    },
+    "menu": {
+      "symbol": "menu",
+      "sha": "269a0221c7e1da28ea445b807d9c32cbd47f342e",
+      "path": "symbols/web/menu/materialsymbolsrounded/menu_24px.svg"
+    },
+    "monitor": {
+      "symbol": "web",
+      "sha": "81bcf43ad05f9b68398417bb97fa628dfd28056d",
+      "path": "symbols/web/web/materialsymbolsrounded/web_24px.svg"
+    },
+    "paperclip": {
+      "symbol": "attach_file",
+      "sha": "394167b6143c874b4e38eeace1898af0b60142f3",
+      "path": "symbols/web/attach_file/materialsymbolsrounded/attach_file_24px.svg"
+    },
+    "play": {
+      "symbol": "play_arrow",
+      "sha": "6584201da8834ebc2426d89950dae067f205880f",
+      "path": "symbols/web/play_arrow/materialsymbolsrounded/play_arrow_24px.svg"
+    },
+    "plus": {
+      "symbol": "add",
+      "sha": "1cc5bf2da61ced6db63f45346b807b0cc7d6c4f4",
+      "path": "symbols/web/add/materialsymbolsrounded/add_24px.svg"
+    },
+    "qr": {
+      "symbol": "qr_code_2",
+      "sha": "a77c740a323b2b85156447c530a0c5a5123cbed4",
+      "path": "symbols/web/qr_code_2/materialsymbolsrounded/qr_code_2_24px.svg"
+    },
+    "refresh": {
+      "symbol": "refresh",
+      "sha": "cedb0fdc6177e896e85855a6c8524b8228c7617a",
+      "path": "symbols/web/refresh/materialsymbolsrounded/refresh_24px.svg"
+    },
+    "search": {
+      "symbol": "search",
+      "sha": "f38d2aa0f83adb0b42ffd7df14be8135b8b2d3ce",
+      "path": "symbols/web/search/materialsymbolsrounded/search_24px.svg"
+    },
+    "settings": {
+      "symbol": "settings",
+      "sha": "269c81cff13aafd64655652b4debe49b3d37ef60",
+      "path": "symbols/web/settings/materialsymbolsrounded/settings_24px.svg"
+    },
+    "shield": {
+      "symbol": "verified_user",
+      "sha": "b54f5e5c1db18b6751ed475e85d58fec8e4b3a3e",
+      "path": "symbols/web/verified_user/materialsymbolsrounded/verified_user_24px.svg"
+    },
+    "sparkles": {
+      "symbol": "auto_awesome",
+      "sha": "5449a16973bf7793120966429cbf6d6da8f86edf",
+      "path": "symbols/web/auto_awesome/materialsymbolsrounded/auto_awesome_24px.svg"
+    },
+    "star": {
+      "symbol": "star",
+      "sha": "8c696c3611c8ec48b416837d874dbff68679f1c7",
+      "path": "symbols/web/star/materialsymbolsrounded/star_24px.svg"
+    },
+    "terminal": {
+      "symbol": "terminal",
+      "sha": "bbd2b7d38f8f9fe4e9b2cba496892d0f8156f407",
+      "path": "symbols/web/terminal/materialsymbolsrounded/terminal_24px.svg"
+    },
+    "trophy": {
+      "symbol": "emoji_events",
+      "sha": "138125a805f601e51e0abac6f0b42c5e86cdffcc",
+      "path": "symbols/web/emoji_events/materialsymbolsrounded/emoji_events_24px.svg"
+    },
+    "upload": {
+      "symbol": "upload",
+      "sha": "d9446423e73e599075bf358a04b4ae522e6d4153",
+      "path": "symbols/web/upload/materialsymbolsrounded/upload_24px.svg"
+    },
+    "user": {
+      "symbol": "person",
+      "sha": "37203bfef23cdab68929ad6e36d227d28ea8b552",
+      "path": "symbols/web/person/materialsymbolsrounded/person_24px.svg"
+    },
+    "users": {
+      "symbol": "groups",
+      "sha": "ceda2990a2e24342d1d3a6f6a2fb83da2dd0b6b3",
+      "path": "symbols/web/groups/materialsymbolsrounded/groups_24px.svg"
+    },
+    "video": {
+      "symbol": "smart_display",
+      "sha": "affd3b9ed12a28b0d346ca617b3d4f958357ef23",
+      "path": "symbols/web/smart_display/materialsymbolsrounded/smart_display_24px.svg"
+    }
+  }
+}
