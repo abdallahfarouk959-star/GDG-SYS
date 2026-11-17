@@ -20,7 +20,7 @@ const server = createServer(async (request, response) => {
     const relative = !dist && pathname.startsWith('/assets/') ? `public${pathname}` : pathname.slice(1);
     const file = path.resolve(root, relative);
     const fromRoot = path.relative(root, file);
-    const allowed = ['index.html', 'assets-gallery.html', 'src', 'assets', 'public', 'screenshots', 'design', 'docs'];
+    const allowed = ['index.html', 'assets-gallery.html', 'src', 'assets', 'public', 'screenshots', 'design', 'docs', 'dashboard', 'data'];
     if (fromRoot.startsWith('..') || path.isAbsolute(fromRoot) || !allowed.includes(fromRoot.split(path.sep)[0])) {
       response.writeHead(403); response.end('Forbidden'); return;
     }
