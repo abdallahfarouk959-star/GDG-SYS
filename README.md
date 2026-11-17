@@ -62,3 +62,8 @@ Run `npm run brand:sync` after updating the supplied kit, then `npm run build`. 
 The portal adapts to desktop, tablet, and phone layouts and includes keyboard focus, a skip link, labeled controls, mobile navigation, and live status messages.
 
 Validation: state/icon tests, static build, SVG manifest verification, and stylesheet parsing pass. Browser verification stopped because the computer-use tool could not verify the current browser URL; the final visual result has not been screenshot-verified.
+
+## 📊 Final Attendance Analytics & Master Dataset
+
+- **Interactive Power BI Dashboard**: Located in [`dashboard/`](dashboard/) ([`dashboard/index.html`](dashboard/index.html)). Open directly in any modern browser to view executive metrics, chronological timeline, commitment rates, cross-track engagement matrix, gender loyalty, university cohorts, and attendee intelligence search.
+- **Audited Master Dataset**: Located in [`data/`](data/) ([`data/Master_Attendance_final.xlsx`](data/Master_Attendance_final.xlsx)), verified across all 155 participants and 5 technical workshops, with the accompanying 10-point audit report in [`data/VERIFICATION_REPORT.md`](data/VERIFICATION_REPORT.md).
